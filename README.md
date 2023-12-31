@@ -1,3 +1,4 @@
 # Demo_Repo
 This is Demo Repository for Learn how git and git-hub work.
-Author - Nitish Prajapati
+<br>
+Author-Nitish Prajapati
